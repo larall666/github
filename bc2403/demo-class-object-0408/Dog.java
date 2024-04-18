@@ -18,6 +18,13 @@ public class Dog {
   private String FristName;
   private String LastName;
   private int Age;
+public Dog(){
+}
+  public Dog (String fristName, String LastName, int age){
+this.FristName=fristName;
+this.LastName=LastName;
+this.Age=age;
+  }
 
   public void setFristName (String FristName){
     this.FristName = FristName;
@@ -55,7 +62,7 @@ public class Dog {
   return this.FristName.concat(" ").concat(this.LastName);
   }
 
- 
+ D
 
 
 
