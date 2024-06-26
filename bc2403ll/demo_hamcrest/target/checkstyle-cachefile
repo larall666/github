@@ -1,0 +1,5 @@
+#Fri May 17 16:16:54 HKT 2024
+configuration*?=9190A090971316425E8AEAAF5B0FEB28504AABE
+module-resource*?\:checkstyle/suppressions.xml=2A018443B2EC9D9A4C76CC7D5C233D38B06EC21A
+C\:\\Users\\User\\Desktop\\github\\bc2403ll\\demo_hamcrest\\src\\main\\java\\com\\example\\App.java=1715930448400
+C\:\\Users\\User\\Desktop\\github\\bc2403ll\\demo_hamcrest\\src\\test\\java\\com\\example\\AppTest.java=1715930448403
